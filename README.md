@@ -1,2 +1,2 @@
 # javascript
-All my JS files!
+Some PJS files for [KhanAcademy](https://www.khanacademy.org) games.
